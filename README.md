@@ -18,7 +18,7 @@ Projeyi çalıştırmak için sisteminizde aşağıdaki yazılımların kurulu o
 - Java 17 veya üstü
 - Maven 3.8 veya üstü
 - Docker ve Docker Compose
-- PostgreSQL veya uyumlu başka bir SQL veritabanı
+- MSSQL veya uyumlu başka bir SQL veritabanı
 
 ### Kurulum
 
@@ -56,7 +56,7 @@ Projeyi çalıştırmak için sisteminizde aşağıdaki yazılımların kurulu o
 - **JDBC:** Veritabanı etkileşimi ve SQL sorguları yönetimi için kullanıldı.
 - **Maven:** Bağımlılık yönetimi ve proje derleme işlemleri.
 - **Docker & Docker Compose:** Uygulamayı ve PostgreSQL veritabanını kapsayıcı olarak çalıştırmak için kullanılır.
-- **PostgreSQL:** Örneklerde kullanılan veritabanı yönetim sistemi.
+- **MSSQL:** Örneklerde kullanılan veritabanı yönetim sistemi.
 
 ## Katkıda Bulunanlar
 Bu proje, Java Backend Geliştirme Akademisi tarafından geliştirilmiştir.
