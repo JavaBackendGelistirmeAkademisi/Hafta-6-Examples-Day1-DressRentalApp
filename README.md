@@ -1,7 +1,7 @@
 
 # Dress Rental App
 
-Dress Rental App, Java backend geliştirme becerilerinin pratik uygulamasını göstermek için geliştirilmiş örnek bir projedir. Bu proje, JDBC kullanarak veritabanı işlemlerini entegre etme gibi çeşitli konuları kapsamaktadır.
+Dress Rental App, Java ile backend geliştirme becerilerinin pratik uygulamasını göstermek için geliştirilmiş örnek bir projedir. Bu proje, JDBC kullanarak veritabanı işlemlerini entegre etme gibi çeşitli konuları kapsamaktadır.
 
 ## Özellikler
 
@@ -41,7 +41,7 @@ Projeyi çalıştırmak için sisteminizde aşağıdaki yazılımların kurulu o
 
 4. **Docker ile çalıştırma:**
 
-   Projeyi Docker ile çalıştırmak için, projenin kök dizininde bulunan `docker-compose.yml` dosyasını kullanarak hem uygulama hem de PostgreSQL veritabanını çalıştırabilirsiniz:
+   Projeyi Docker ile çalıştırmak için, projenin kök dizininde bulunan `docker-compose.yml` dosyasını kullanarak hem uygulama hem de MSSQL veritabanını çalıştırabilirsiniz:
 
    ```bash
    docker-compose up --build
