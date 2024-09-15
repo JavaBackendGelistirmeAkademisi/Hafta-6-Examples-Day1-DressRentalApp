@@ -55,7 +55,7 @@ Projeyi çalıştırmak için sisteminizde aşağıdaki yazılımların kurulu o
 - **Java 17:** Backend mantığı için kullanılan ana programlama dili.
 - **JDBC:** Veritabanı etkileşimi ve SQL sorguları yönetimi için kullanıldı.
 - **Maven:** Bağımlılık yönetimi ve proje derleme işlemleri.
-- **Docker & Docker Compose:** Uygulamayı ve PostgreSQL veritabanını kapsayıcı olarak çalıştırmak için kullanılır.
+- **Docker & Docker Compose:** Uygulamayı ve MSSQL veritabanını kapsayıcı olarak çalıştırmak için kullanılır.
 - **MSSQL:** Örneklerde kullanılan veritabanı yönetim sistemi.
 
 ## Katkıda Bulunanlar
